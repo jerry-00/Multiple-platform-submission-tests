@@ -1,2 +1,2 @@
 # Multiple-platform-submission-tests
-test
+test change
